@@ -1,5 +1,8 @@
-**Aperture website**
+### Aperture website                 
+[Website link](https://matteobronner.com/)     
 
-Welcome to my little website inspired by the video game portal.
+## About :
 
-here is the link to the website: https://matteobronner.com/
+Welcome to my website inspired by the videogames *Portal* and *Portal 2*. It's a simple student project, but I hope you will enjoy your exploration
+
+Have fun!
